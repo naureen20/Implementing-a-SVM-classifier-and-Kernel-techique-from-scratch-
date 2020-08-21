@@ -4,13 +4,13 @@ Implementing a SVM classifier from scratch utilizing Gradient Descent optimizati
 
 Linearly inseparable data:
 
-<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(82).png">
+<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(83).png">
 
 
 Data points after applying Square kernel:
 
-<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(83).png">
+<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(84).png">
 
 Visualizing SVM Classifer boundary and actual boundary line from which data is generated:
 
-<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(84).png">
+<img src="https://github.com/naureen20/Implementing-a-SVM-classifier-and-Kernel-techique-from-scratch-/blob/master/Screenshot%20(82).png">
