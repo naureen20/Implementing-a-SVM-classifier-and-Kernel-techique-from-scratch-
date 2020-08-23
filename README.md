@@ -1,7 +1,7 @@
 # Implementing SVM classifier and Kernel technique from scratch.
 
 ### Implemented a SVM classifier from scratch utilizing Gradient Descent optimization.
-### Impleementing a Square Kernel from scratch  for obtaining decision boundary of random generated data.
+### Implemented a Square Kernel from scratch  for obtaining decision boundary of random generated data.
 
 Exercise is a part of ML Assignments from SHALA(Stay at Home And Learn AI) Initiative by Prof. Amit Sethi IIT Bombay, 2020
 
